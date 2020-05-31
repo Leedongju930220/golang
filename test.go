@@ -1,9 +1,6 @@
 package main
 
-import "fmt"
+func main() {
+	println("hello git")
 
-func main(){ 
-  println("hello git")
-  
-  
 }
